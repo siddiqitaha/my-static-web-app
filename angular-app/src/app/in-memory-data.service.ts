@@ -77,8 +77,8 @@ function getDbData() {
   const products: any[] = [
     {
       id: 10,
-      name: 'Strawberries',
-      description: '16oz package of fresh organic strawberries',
+      name: 'Mangos',
+      description: '12oz package of fresh organic strawberries',
       quantity: '1',
     },
     {
